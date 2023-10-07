@@ -8,6 +8,8 @@ Questo progetto ha lo scopo di riprodurre il layout di un sito web basandoci sui
 
 ## Struttura
 
+```bash
+.
 ├── README.md
 ├── index.html
 ├── img
@@ -17,3 +19,4 @@ Questo progetto ha lo scopo di riprodurre il layout di un sito web basandoci sui
 │ ├── Viaggio-Londra.jpg
 ├── css
 │ └── style.css
+```
