@@ -1,9 +1,19 @@
 # Viaggio a Londra
 
-É stato riprodotto il layout di un'immagine, la pagina é suddivisa nelle seguenti sezioni:
+Questo progetto ha lo scopo di riprodurre il layout di un sito web basandoci sui tag HTML che abbiamo appreso durante la sessione.
 
-- header
-- Le mie spese
-- Cose da fare
-- Info utili
-- Le foto
+## Layout di Riferimento
+
+![Viaggio a Londra](img/Viaggio-Londra.jpg)
+
+## Struttura
+
+├── README.md
+├── index.html
+├── img
+│ ├── pexels-bill-emrich-230794-0.jpg
+│ ├── pexels-bill-emrich-230794-1.jpg
+│ ├── pexels-bill-emrich-230794-2.jpg
+│ ├── Viaggio-Londra.jpg
+├── css
+│ └── style.css
